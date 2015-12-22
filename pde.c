@@ -34,3 +34,11 @@ solution:u(x,t)=f(x+ct)+g(x-ct).
 f travels left:dx/dt=-c.resp. g.
 Initial value problem:utt=c^2*uxx.in the domain R*R.c is not zero.u(x,0)=p(x),ut(x,0)=q(x).
 this is unique and exist.
+Causality.
+Energy.
+diffusion equation:ut=kuxx.
+this is parabolic.
+Maximum principle.if u satisfy diffusion equation in a rectangle x:0~l,t:0~T,then the maximum must appear at the bottom side or the lateral sides.
+unique
+Stability:two sense
+ut=kuxx,x in R,t>0,k is not 0.u(x,0)=p(x).
