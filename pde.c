@@ -20,8 +20,17 @@ jump conditions.
 well-posed:exist,unique,stable.
 eg.backward diffusion.singular matrix.half plane.
 types of second order equation.
+remark.in the classification,we rename t to y.
 elliptic:positive-definite or negative-definite.
 hyperbolic:1+ other- or 1- other+.
 ultrahyperbolic.
 parabolic:1zero other same.
 if the coefficients are variable,the equation can change type in different regions.
+
+//ch2
+wave equation:utt=c^2*uxx.in the domain R*R.c is not zero.
+this is hyperbolic.
+solution:u(x,t)=f(x+ct)+g(x-ct).
+f travels left:dx/dt=-c.resp. g.
+Initial value problem:utt=c^2*uxx.in the domain R*R.c is not zero.u(x,0)=p(x),ut(x,0)=q(x).
+this is unique and exist.
