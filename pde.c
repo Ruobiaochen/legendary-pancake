@@ -8,4 +8,5 @@
 order:highest derivative that appears
 linear operator.
 remark.variable coefficient equation can't be reduced to a change of coordinate between partial derivatives(thus the change of x,y,z,...) because this will induce to solve a similar equation.
-remark.the parametrization method (due to D. Bleecker) seems overly complicated for simple computational problems.
+remark.the parametrization method (in D. Bleecker) seems overly complicated for simple computational problems.
+characteristic curve method.
