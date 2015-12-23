@@ -59,3 +59,7 @@ Duhamel's principle method.
 consider ut-kuxx=f(x,t),x in R,t>0.u(x,0)=0. and ut-kuxx=0,x in R,t>0.u(x,0)=p(x). and combine to get the solution.
 the integral factor is A(-t),where A is source operator mentioned above,so that u-kuxx=u-Bu=d/dt(A(-t)u(t)).(B is a temporary notation)
 //remark.what is A(-t)? I don't know now...(A is well-defined for A(t) s.t. t>0.)
+boundary source:subtraction method.
+wave with source:3 methods.
+wave with boundary source.on finite interval.
+smoothness of solution of diffusion function.
