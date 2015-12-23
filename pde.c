@@ -7,7 +7,7 @@ n is the normal vector pointed outward the region.
 
 //strauss
 
-//ch1
+//ch1.intro
 order:highest derivative that appears
 linear operator.
 remark.(maybe locally,but I don't know) variable coefficient equation can't be reduced to a change of coordinate between partial derivatives(thus the change of x,y,z,...) because this will induce to solve a similar equation.
@@ -27,7 +27,7 @@ ultrahyperbolic.
 parabolic:1zero other same.
 if the coefficients are variable,the equation can change type in different regions.
 
-//ch2
+//ch2.wave and diffusion on the whole line
 wave equation:utt=c^2*uxx.in the domain R*R.c is not zero.
 this is hyperbolic.
 solution:u(x,t)=f(x+ct)+g(x-ct).
@@ -42,3 +42,17 @@ Maximum principle.if u satisfy diffusion equation in a rectangle x:0~l,t:0~T,the
 unique
 Stability:two sense
 ut=kuxx,x in R,t>0,k is not 0.u(x,0)=p(x).
+many invariance property.
+fundamental solution:S(x,t)=1/sqrt(4pi*kt)*e^(-x^2/(4kt))
+general solution,ignoring t:u(x)=H(S,p)(x)=int -inf to inf S(x-k)p(k)dk.
+
+//ch3.reflections and source
+ut=kuxx,x>0,t>0,k not 0.u(x,0)=p(x),u(0,t)=0.
+odd extension method.
+ut=kuxx,x>0,t>0,k not 0.u(x,0)=p(x),ux(0,t)=0.
+even extension method.
+utt=c^2*uxx,x>0,t in R.u(x,0)=p(x),ut(x,0)=q(x),u(0,t)=0.
+domain of dependence changed.
+wave on finite interval,extension method.
+ut-kuxx=f(x,t),x in R,t>0.u(x,0)=p(x).
+Duhamel's principle method.
