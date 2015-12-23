@@ -56,3 +56,4 @@ domain of dependence changed.
 wave on finite interval,extension method.
 ut-kuxx=f(x,t),x in R,t>0.u(x,0)=p(x).
 Duhamel's principle method.
+consider ut-kuxx=f(x,t),x in R,t>0.u(x,0)=0. and ut-kuxx=0,x in R,t>0.u(x,0)=p(x). and combine to get the solution.
