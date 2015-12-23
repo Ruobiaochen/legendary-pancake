@@ -63,3 +63,10 @@ boundary source:subtraction method.
 wave with source:3 methods.
 wave with boundary source.on finite interval.
 smoothness of solution of diffusion function.
+
+//ch4.boundary problems
+utt=c^2*uxx,x=0 to l.u(0,t)=u(l,t)=0.u(x,0)=p(x),ut(x,0)=q(x).
+separated solution:u=X(x)T(t).
+Here comes Fourier and Euler!
+eigen.normal mode.
+//remark.diagonalization...
