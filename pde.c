@@ -78,3 +78,6 @@ Neumann conditions.Robin conditions.
 fourier series cannot be differentiated term by term.
 equation with inhomogeneous boundary conditions:although fourier series is zero at endpoint,we still use because it's correct in every neighborhood of the endpoint.
 hard calculation method with fourier expansion.
+subtraction method(shifting the data).
+
+//ch6.harmonic function
