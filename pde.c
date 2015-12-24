@@ -75,3 +75,6 @@ Neumann conditions.Robin conditions.
 
 //ch5.fourier series and boundary problem
 //remark.differential equations with homogeneous boundary conditions induce eigenvalues and eigenfunctions,where their orthogonality is related to symmetry of boundary conditions,then we can use them to solve the corresponding(!) equation with inhomogeneous boundary conditions.
+fourier series cannot be differentiated term by term.
+equation with inhomogeneous boundary conditions:although fourier series is zero at endpoint,we still use because it's correct in every neighborhood of the endpoint.
+hard calculation method with fourier expansion.
