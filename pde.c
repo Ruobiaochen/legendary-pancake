@@ -70,3 +70,8 @@ separated solution:u=X(x)T(t).
 Here comes Fourier and Euler!
 eigen.normal mode.
 //remark.diagonalization...
+the eigenvalues (of this equation) must be positive.(they cannot be complex numbers!)(with not zero Im part)
+Neumann conditions.Robin conditions.
+
+//ch5.fourier series and boundary problem
+//remark.differential equations with homogeneous boundary conditions induce eigenvalues and eigenfunctions,where their orthogonality is related to symmetry of boundary conditions,then we can use them to solve the corresponding(!) equation with inhomogeneous boundary conditions.
