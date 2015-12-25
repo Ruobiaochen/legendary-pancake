@@ -81,3 +81,7 @@ hard calculation method with fourier expansion.
 subtraction method(shifting the data).
 
 //ch6.harmonic function
+Maximum principle.
+Uniqueness.
+Invariance of laplacian operator under rigid motion.
+//remark.as for me,this means the laplacian and the rigid motion commute(in the sense of operator composition).
