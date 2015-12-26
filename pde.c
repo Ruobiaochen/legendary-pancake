@@ -85,3 +85,4 @@ Maximum principle.
 Uniqueness.
 Invariance of laplacian operator under rigid motion.
 //remark.as for me,this means the laplacian and the rigid motion commute(in the sense of operator composition).
+Poisson formula in dim 2:if uxx+uyy=0 in a circle x^2+y^2=a^2,then u(m)=1/(2pi*a)*int (on the boundary) (a^2-m^2)/(k-m)^2*u(k)|dk|,where k is a vector point to somewhere on the boundary.
