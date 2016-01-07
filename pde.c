@@ -13,6 +13,7 @@ linear operator.
 //remark.(maybe locally,but I don't know) variable coefficient equation can't be reduced to a change of coordinate between partial derivatives(thus the change of x,y,z,...) because this will induce to solve a similar equation.
 //remark.the parametrization method (in D. Bleecker) is overly complicated for simple computational problems.
 characteristic curve method.
+//remark.the parametrization method(which is actually based on characteristic curve method):s and t are parameters,delx/delt=...,dely/delt=...,delu/delt=...,then put the boundary/initial condition:set t=0 and s=the variable in the condition.
 initial condition:specify u at all space points at time t0.
 boundary condition:specify u at all time at boundary of space points.
 conditions at infinity.
