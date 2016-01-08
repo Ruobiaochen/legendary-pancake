@@ -4,6 +4,7 @@ n is the normal vector pointed outward the region.
 //gradient and directional derivative:consider the tangent space at the point
 //2 variable:integrate "along" gradients using small plane instead of short line as in one variable.
 //partial derivative:fix other variables and integrate as if in one variable.
+//a function's differential information at a point is fully captured by the following way:if u=u(x,y,z),R3->R1,u at a point m where u(m)=n,then consider the surface u=n,which is actually a map R2->R1,then the direction of gradient is just the direction of its normal vector.(cf.Lagrange method on quasi linear equation)the magnitude of the gradient is obtained by measuring u along this direction.(in other words,an "axis".)(which is R1->R2)this can be generalized to a somewhat surprising result:consider v:R3->R3,=(v1,v2,v3),and apply the idea respectively on v1,v2,v3,we get three surface and three axis,which determine the div,curl,etc.completely.(and can be seen as surface put together:R2->R3,axis put together:R1->R6)
 
 //strauss
 
