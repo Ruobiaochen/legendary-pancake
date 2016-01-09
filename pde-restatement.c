@@ -4,6 +4,7 @@ general
 Duhamel's principle method.
 subtraction method(shifting the data).
 separated solution method.
+eigenfunction expansion method.
 fourier transform method.
 energy method.
 
