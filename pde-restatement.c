@@ -5,11 +5,12 @@ Duhamel's principle method.
 subtraction method(shifting the data).
 separated solution method.
 fourier transform method.
+energy method.
 
 linear equation:first order
-characteristic curve method.
+characteristic curve.
 parametrization method.
 
 linear equation:second order:wave
-utt=c^2*uxx,in the domain R*R,solution:u(x,t)=f(x+ct)+g(x-ct).
+characteristic curve.
 reflection(extension) method.
