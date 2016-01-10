@@ -1,6 +1,7 @@
 //A restatement of notes in pde.c.
 
 general
+reflection(extension) method.
 Duhamel's principle method.
 subtraction method(shifting the data).
 separated solution method.
@@ -14,4 +15,7 @@ parametrization method.
 
 linear equation:second order:wave
 characteristic curve.
-reflection(extension) method.
+basic solution.
+
+linear equation:second order:diffusion
+basic solution.
