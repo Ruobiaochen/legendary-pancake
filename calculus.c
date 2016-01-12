@@ -16,3 +16,5 @@ Dirichlet,Abel.
 fourier expansion
 Riemann-Lebesgue lemma
 pointwise convergence:localized theorem
+Cesaro convergence(pointwise):Weierstrass uniform approximation
+square convergence:Parseval equation
