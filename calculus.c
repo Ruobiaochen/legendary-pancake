@@ -1,4 +1,5 @@
 (this is for preparing the test so not rigorous)
+//from Changgengzhe,Shijihuai
 
 //general
 Cauchy's definition of limit convergence.
@@ -14,3 +15,4 @@ Dirichlet,Abel.
 //Fourier
 fourier expansion
 Riemann-Lebesgue lemma
+pointwise convergence:localized theorem
