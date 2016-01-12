@@ -92,3 +92,11 @@ Poisson formula in dim 2:if uxx+uyy=0 in a circle x^2+y^2=a^2,then u(m)=1/(2pi*a
 //ch7.Green's identities and Green's functions
 int lapu dV = int delu/deln dS.
 //remark.(thanks to gzw)to get delu/deln=delu/delr (on a sphere),we must first put the transformation (x,y,z)->(r,theta,phi),or that would be meaningless to write delu/delr.(we should not view it as a directional derivative here.because the directionnal derivative in direction l,delu/dell,although same notation,but completely different definition.)
+Dirichlet's principle.
+representation formula,radial solution.
+Green function.
+
+//ch8.computation of solutions
+
+//ch9.waves in space
+Characteristic cone.
