@@ -100,3 +100,4 @@ Green function.
 
 //ch9.waves in space
 Characteristic cone.
+Kirchhoff formula and Huygens principle.
