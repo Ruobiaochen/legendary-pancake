@@ -6,7 +6,12 @@ Smith normal form of the eigenmatrix corresponds to normal forms of the original
 //Quadratic form,inner product,bilinear form(and sesquilinear form),dual space
 quadratic form corresponds to symmetric matrix.
 norm can induce inner product. that is,the form XtQX and XtQY can express each other.
-a (nondegenerate) bilinear form corresponds to an isomorphism between V and V*(cf. bilinear mapping). through this isomorphism,transpose is related to adjoint,and dual basis to orthogonal.
+a (nondegenerate) bilinear form corresponds to an isomorphism between V and V*(cf. bilinear mapping). through this isomorphism,transpose is related to adjoint,and dual basis to orthonormal basis.
 
 
 //Inner product space
+orthonormal basis
+orthogonal(indeed,orthonormal) transformation
+orthogonal complement
+orthogonal similarity of normal transformation
+inner product in C:unitary space
