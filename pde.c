@@ -117,3 +117,4 @@ energy
 
 //ch14.nonlinear pdes
 Bifurcation:study of solutions depending on parameters
+Calculus of variations
