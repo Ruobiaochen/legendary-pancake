@@ -7,7 +7,6 @@ subtraction method(shifting the data).
 separated solution method.
 eigenfunction expansion method.
 fourier transform method.
-energy method.
 
 linear equation:first order
 characteristic curve.
@@ -19,3 +18,5 @@ basic solution.
 
 linear equation:second order:diffusion
 basic solution.
+Poisson formula.
+Green function.
