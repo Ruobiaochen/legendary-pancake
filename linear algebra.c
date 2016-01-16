@@ -10,8 +10,6 @@ a (nondegenerate) bilinear form corresponds to an isomorphism between V and V*(c
 
 
 //Inner product space
-orthonormal basis
-orthogonal(indeed,orthonormal) transformation
-orthogonal complement
-orthogonal similarity of normal transformation
-inner product in C:unitary space
+inner product is easy with respect to orthonormal basis
+orthogonal(indeed,orthonormal) transformation fixes the inner product
+orthogonal similarity (of normal transformation) (through orthogonal transformation)
