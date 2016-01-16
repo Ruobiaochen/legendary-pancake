@@ -70,6 +70,7 @@ smoothness of solution of diffusion function.
 utt=c^2*uxx,x=0 to l.u(0,t)=u(l,t)=0.u(x,0)=p(x),ut(x,0)=q(x).
 separated solution:u=X(x)T(t).
 Here comes Fourier and Euler!
+//remark.the partition of interval x induces a partition on line t.
 eigen.normal mode.
 //remark.diagonalization...
 the eigenvalues (of this equation) must be positive.(they cannot be complex numbers!)(with not zero Im part)
