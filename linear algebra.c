@@ -13,3 +13,7 @@ a (nondegenerate) bilinear form corresponds to an isomorphism between V and V*(c
 inner product is easy with respect to orthonormal basis
 orthogonal(indeed,orthonormal) transformation fixes the inner product
 orthogonal similarity (of normal transformation) (through orthogonal transformation)
+
+//positive definite
+S is positive definite is defined for real symmetric matrix.
+S is positive definite:S>0:S=PtP,where P is invertible:all eigenvalues >0:leading principal minors are all positive
