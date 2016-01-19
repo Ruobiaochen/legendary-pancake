@@ -7,6 +7,7 @@ subtraction method(shifting the data).
 separated solution method.
 eigenfunction expansion method.
 fourier transform method.
+Green's identities.
 
 linear equation:first order
 characteristic curve.
