@@ -18,5 +18,7 @@ basic solution.
 
 linear equation:second order:diffusion
 basic solution.
+
+linear equation:second order:harmonic
 Poisson formula.
 Green function.
