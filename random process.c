@@ -7,4 +7,7 @@ remark. O is sample space (outcomes),F is event sets,P is measure.
 expected value: E[g(x)],abbreviated to Eg(x).
 discrete random(stochastic) process: a sequence of random variables x(t).
 realization(sample function) of the process:theta(t),which is one particular set of observed values of x(t).
-uncorrelated random process: t!=s -> Ex(t)x(s)=Ex(t)Ex(s)
+uncorrelated (of a single random process): t!=s -> Ex(t)x(s)=Ex(t)Ex(s)
+orthogonal (of a single random process): t!=s -> Ex(t)x(s)=Ex(t)Ex(s)=0
+remark.any uncorrelated can be turn into orthogonal.
+covariance
