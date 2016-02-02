@@ -8,6 +8,9 @@ expected value: E[g(x)],abbreviated to Eg(x).
 discrete random(stochastic) process: a sequence of random variables x(t).
 realization(sample function) of the process:theta(t),which is one particular set of observed values of x(t).
 uncorrelated (of a single random process): t!=s -> Ex(t)x(s)=Ex(t)Ex(s)
+remark.meaning of E[xy]:http://math.stackexchange.com/questions/656612/what-does-exy-mean
 orthogonal (of a single random process): t!=s -> Ex(t)x(s)=Ex(t)Ex(s)=0
 remark.any uncorrelated can be turn into orthogonal.
-covariance
+covariance: cov(x,y)=Exy-ExEy.
+conditional probability,expectation.
+gaussian(normally distributed) random variable.
