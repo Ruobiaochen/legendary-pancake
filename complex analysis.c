@@ -9,3 +9,8 @@ Arg is a set,Arg0 is undefined,arg is between (-pi,pi].
 point at infinity:one point compactification.
 Riemann sphere.
 //remark.this can remove some kind of singularities by set them to the infinity point.
+
+//ch2.complex differtiable
+f(z)=h(x,y)=u+iv=h(0.5(p+q),-0.5(p-q))=g(p,q).
+//remark.yes,p is z and q is bz,but here we see them as independent.
+//notation:df/dx is defined as dh/dx,df/dy as dh/dy,df/dz as dg/dp,df/dbz as dg/dq.
