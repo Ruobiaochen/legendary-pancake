@@ -16,6 +16,7 @@ f(z)=h(x,y)=u+iv=h(0.5(p+q),-0.5(p-q))=g(p,q).
 //remark.yes,p is z and q is bz,but here we see them as independent.
 //notation:df is f(z+dz)-f(z),df/dx is defined as dh/dx,df/dy as dh/dy,df/dz as dg/dp,df/dbz as dg/dq.
 real diff implies df=fzdz+fbzdbz,if fbz=0,which equals satisfy C-R equations,f is complex diff.
+//note that gradu·gradv=0,and the related physical interpretation.
 harmonic:u:D->R,D in C,lapu=0.
 lapu=4uzdz.
 C-R implies Imf and Ref are harmonic.
