@@ -11,21 +11,28 @@
 take care of a complex number equals zero:re part and im part both zero.
 Arg is a set,Arg0 is undefined,arg is between (-pi,pi].
 point at infinity:one point compactification.
-Riemann sphere.
-//remark.this can remove some kind of singularities by set them to the infinity point.
+Riemann sphere. this can remove some kind of singularities by set them to the infinity point.
 
-//ch2.complex differtiable
-//As with the (locally) approximation by linear map,here C->C is approached by y(z)=az,which means amplifying and rotating.
+//ch2.complex differtiable condition
+//this is two fold.
+//first,once the condition is satisfied,df will behave linearly with df.otherwise,consider df(dz)=df=sdz+tdbz=sdz+tbdz,df(qdz)=sqdz+tb(qdz)=qsdz+bqtbdz!=qdf(dz).
+//second,the condition is related to C-R equation of two real-valued function.
+remark.as with the (locally) approximation by linear map,here C->C is approached by y(z)=az,which means amplifying and rotating.
 f(z)=h(x,y)=u+iv=h(0.5(p+q),-0.5(p-q))=g(p,q).
 //remark.yes,p is z and q is bz,but here we see them as independent.
 //notation:df is f(z+dz)-f(z),df/dx is defined as dh/dx,df/dy as dh/dy,df/dz as dg/dp,df/dbz as dg/dq.
 real diff implies df=fzdz+fbzdbz,if fbz=0,which equals satisfy C-R equations,f is complex diff.
+dbz=bdz.
 //note that gradu·gradv=0,and the related physical interpretation.
 harmonic:u:D->R,D in C,lapu=0.
-lapu=4uzdz.
+lapu=4uzbz.
 C-R implies Imf and Ref are harmonic.
+
+//Möbius trans
 //(from wiki)Geometrically, a Möbius transformation can be obtained by first performing stereographic projection from the plane to the unit two-sphere, rotating and moving the sphere to a new location and orientation in space, and then performing stereographic projection (from the new position of the sphere) to the plane.(cf.Riemann sphere)
-//cross-ratio is an invariant of Möbius trans and is related to inversion.in light of inversion the four point circleness is just one point is its own inversion point of the circle of other three points.
+cross-ratio is an invariant of Möbius trans and is related to inversion.in light of inversion the four point circleness is just one point is its own inversion point of the circle of other three points.
 eg.Möbius trans are holomorphic automorphism of Riemann sphere.
 eg.holomorphic automorphism of unit disk.
 //remark.holomorphic aut vs biholomorphic aut vs conformal aut?
+
+//ch3.integral representation
