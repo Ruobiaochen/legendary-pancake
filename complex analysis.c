@@ -42,10 +42,10 @@ eg.holomorphic automorphism of unit disk.
 //remark.holomorphic aut vs biholomorphic aut vs conformal aut?
 
 //ch3.integral representation
-Cauchy integral theorem indicates contour can be retracted(zoom).
-Cauchy integral representation is the solution to (boundary problem of) C-R equation.
+//Cauchy integral representation is the solution to (boundary problem of) C-R equation.
 //cf.fundamental solution,green function,Malgrange–Ehrenpreis theorem
 //remark.i think,we can guess this from attempting(calculate by examples,or even more brute-forcely,utilizing series expansion or fourier expansion) at the corresponding harmonic function.
+Cauchy integral theorem indicates contour can be retracted(zoom).
 Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is the radius of convergence.)
-Liouville theorem(wiki)
 
+//ch4.taylor series
