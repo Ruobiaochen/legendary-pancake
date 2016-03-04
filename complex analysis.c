@@ -2,7 +2,7 @@
 
 //Euler formula.The first insight comes from consider df/dz at z=0.(we want to go up in the im axis.)from this we can see in order to further the extension,we need to know some other information,such that df/dz=f at non-real z. Now we change the perspective that exp should satisfy f(x+y)=f(x)f(y).in fact we can infer from this that f will satisfy the previous condition,and we've done.(i know two ways:1.calculate df/dz just use definition of derivative.(amazingly,from baiduzhidao!) 2.take log and it's converted to Cauchy's functional equation.) 
 //rather than saying extend to the complex case,i'd say it connects two functions f(x) and f(ix) through the complex structure.(x is real) So the essential idea here is introduction of complex structure.
-//(.)the above is completely wrong in the sense that in fact no additional information is needed! We can see if two holomorphic function agrees on real line,then they are the same through series consideration. 
+//(.)the above is completely wrong in the sense that in fact no additional information is needed! We can see if two holomorphic function agrees on real line,then they are the same through series consideration. (a naive method is ok,ie.sigma anx^n=0 for all real x;or,more powerful tool,see below,ch4&5 part)
 //the grid change of the complex plane or even the corresponding Riemann sphere under the map may be illuminating.(terminology:complex map)eg.e^z take vertical lines and horizontal lines to what?
 //consider the complex map of z^n.
 //all in all the conclusion is,complex geometry is far more complex(so abundant) than its analytic representation(series).
@@ -48,4 +48,7 @@ eg.holomorphic automorphism of unit disk.
 Cauchy integral theorem indicates contour can be retracted(zoom).
 Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is the radius of convergence.)
 
-//ch4.taylor series
+//ch4&ch5.series representation
+//remark.the fact that analytic is holomorphic is more deep than it seems.(consider the complex map of z^n.)
+Taylor series define a holomorphic function in its convergence circle.
+m-th zero.isolated zero theorem.uniqueness.(two different holomorphic function cannot agree on a non-discrete set.)
