@@ -2,9 +2,12 @@
 
 //Euler formula.The first insight comes from consider df/dz at z=0.(we want to go up in the im axis.)from this we can see in order to further the extension,we need to know some other information,such that df/dz=f at non-real z. Now we change the perspective that exp should satisfy f(x+y)=f(x)f(y).in fact we can infer from this that f will satisfy the previous condition,and we've done.(i know two ways:1.calculate df/dz just use definition of derivative.(amazingly,from baiduzhidao!) 2.take log and it's converted to Cauchy's functional equation.) 
 //rather than saying extend to the complex case,i'd say it connects two functions f(x) and f(ix) through the complex structure.(x is real) So the essential idea here is introduction of complex structure.
+//(.)the above is completely wrong in the sense that in fact no additional information is needed! We can see if two holomorphic function agrees on real line,then they are the same through series consideration. 
+//the grid change of the complex plane or even the corresponding Riemann sphere under the map may be illuminating.(terminology:complex map)eg.e^z take vertical lines and horizontal lines to what?
+//consider the complex map of z^n.
+//all in all the conclusion is,complex geometry is far more complex(so abundant) than its analytic representation(series).
 //b^(rs)=(b^r)^s does not hold when b<0.
 //note that f/bf=e^(2iargf).log(||)=0.5log(||^2).
-//the grid change of the complex plane or even the corresponding Riemann sphere under the map may be illuminating.eg.e^z take vertical lines and horizontal lines to what?
 
 //Shijihuai,Liutaishun
 
@@ -14,6 +17,7 @@ take care of a complex number equals zero:re part and im part both zero.
 Arg is a set,Arg0 is undefined,arg is between (-pi,pi].
 point at infinity:one point compactification.
 Riemann sphere. this can remove some kind of singularities by set them to the infinity point.
+//when considering global property,try this!
 
 //ch2.complex differtiable condition
 //this is two fold.
@@ -42,3 +46,5 @@ Cauchy integral theorem indicates contour can be retracted(zoom).
 Cauchy integral representation is the solution to (boundary problem of) C-R equation.
 //cf.fundamental solution,green function,Malgrange–Ehrenpreis theorem
 //remark.i think,we can guess this from attempting(calculate by examples,or even more brute-forcely,utilizing series expansion or fourier expansion) at the corresponding harmonic function.
+Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is the radius of convergence.)
+Liouville theorem.
