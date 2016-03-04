@@ -47,4 +47,5 @@ Cauchy integral representation is the solution to (boundary problem of) C-R equa
 //cf.fundamental solution,green function,Malgrange–Ehrenpreis theorem
 //remark.i think,we can guess this from attempting(calculate by examples,or even more brute-forcely,utilizing series expansion or fourier expansion) at the corresponding harmonic function.
 Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is the radius of convergence.)
-Liouville theorem.
+Liouville theorem(wiki)
+
