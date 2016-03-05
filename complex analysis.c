@@ -51,5 +51,11 @@ Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is th
 //ch4&ch5.series representation
 //remark.the fact that analytic is holomorphic is much deeper than it seems.(consider the complex map of z^n.)
 Taylor series define a holomorphic function in its convergence circle.
+
+//zero
+m-th zero.
 uniqueness.(two different holomorphic function cannot agree on a non-discrete set.)
 argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-of-a-holomorphic-function/51032#51032)
+Rouche theorem.(wind a dog around a tree hhhhhhh see wiki)
+
+//entire function
