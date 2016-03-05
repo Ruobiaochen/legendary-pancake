@@ -6,8 +6,9 @@ Cauchy solution to Neumann problem of C-R
 Cauchy theorem for " " holomorphic
 in a circle,holomorphic is equivalent to analytic
 
-estimation of derivative
+estimation
 Cauchy inequality
+Schwarz lemma
 
 fiber (ie. zero)
 lemma.relationship between factorization and derivative and series
@@ -21,3 +22,5 @@ Hurwitz theorem for function limit invariant of zero number
 open mapping theorem
 
 injective implies non-vanishing derivative implies biholomorphic
+
+maximum modulus principle
