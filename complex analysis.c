@@ -49,6 +49,7 @@ Cauchy integral theorem indicates contour can be retracted(zoom).
 Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is the radius of convergence.)
 
 //ch4&ch5.series representation
-//remark.the fact that analytic is holomorphic is more deep than it seems.(consider the complex map of z^n.)
+//remark.the fact that analytic is holomorphic is much deeper than it seems.(consider the complex map of z^n.)
 Taylor series define a holomorphic function in its convergence circle.
-m-th zero.isolated zero theorem.uniqueness.(two different holomorphic function cannot agree on a non-discrete set.)
+uniqueness.(two different holomorphic function cannot agree on a non-discrete set.)
+argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-of-a-holomorphic-function/51032#51032)
