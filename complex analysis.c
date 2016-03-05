@@ -33,7 +33,6 @@ dbz=bdz.
 harmonic:u:D->R,D in C,lapu=0.
 lapu=4uzbz.
 C-R implies Imf and Ref are harmonic.
-
 //Möbius trans
 //(from wiki)Geometrically, a Möbius transformation can be obtained by first performing stereographic projection from the plane to the unit two-sphere, rotating and moving the sphere to a new location and orientation in space, and then performing stereographic projection (from the new position of the sphere) to the plane.(cf.Riemann sphere)
 cross-ratio is an invariant of Möbius trans and is related to inversion.in light of inversion the four point circleness is just one point is its own inversion point of the circle of other three points.
@@ -51,11 +50,11 @@ Cauchy derivative estimation.(remark.(not verified)the bound is sharp if r is th
 //ch4&ch5.series representation
 //remark.the fact that analytic is holomorphic is much deeper than it seems.(consider the complex map of z^n.)
 Taylor series define a holomorphic function in its convergence circle.
-
 //zero
 m-th zero and derivative.
+//remark.m indicates the shape near the zero,ie. f(z+dz)~=(dz)^m.
 uniqueness.(two different holomorphic function cannot agree on a non-discrete set.)
 argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-of-a-holomorphic-function/51032#51032)
+//remark.this gives the concept of zero number in a contour.(defined by me)
 Rouche theorem.(wind a dog around a tree hhhhhhh see wiki)
 
-//entire function
