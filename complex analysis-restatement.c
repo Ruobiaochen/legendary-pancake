@@ -15,7 +15,7 @@ lemma.relationship between factorization and derivative and series
 isolated zero theorem
 lemma.analytic(in the sense of opposite to topological) representation of winding number
 argument principle
-Rouche theorem
+Rouche theorem(symmetric version)
 local invariant of zero number
 Hurwitz theorem for function limit invariant of zero number
 
