@@ -1,4 +1,4 @@
-main object:f:C->C
+main object:f:C->C(holomorphic,entire,meromorphic)
 
 fundamental lemma
 complex differentiable equals Cauchy-Riemann equation
