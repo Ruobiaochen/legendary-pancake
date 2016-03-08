@@ -2,6 +2,9 @@
 compact
 boundary estimation
 
+//Cantor set C
+IntC=0,FrC=C
+
 //main source: E.M.Stein,R.Shakarchi
 //but it's not very reliable...the first (fault?) I see is the definition of limit point.
 
@@ -15,6 +18,7 @@ exterior measure:m*(E)=inf(sigma j=1 to inf |Qj|),where E is in R,over all count
 //monotonicity implies bounded set m* is finite.
 //it's not true that if E1 and E2 are disjoint,then m*(E1UE2)=m*(E1)+m*(E2).
 Lebesgue measurable:E is measurable if for all t>0 there exists open set O st. O covers E and m*(O-E)<t.
+//remark.we cannot simply replace O by closed C because for given O,m*(C-O) can have a positive lower bound,that is because m*(closureO-O) can be positive,consider Cantor-like set.
 //eg.open set,closed set,m*=0 set,countable union,countable intersection,complement
 Lebesgue measure:m(E)=m*(E) where E is measurable.
 //countable additivity now holds.
