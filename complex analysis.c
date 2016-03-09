@@ -5,6 +5,8 @@
 //(.)the above is completely wrong in the sense that in fact no additional information is needed! We can see if two holomorphic function agrees on real line,then they are the same through series consideration. (a naive method is ok,ie.sigma anx^n=0 for all real x;or,more powerful tool,see below,ch4&5 part)
 //the grid change of the complex plane or even the corresponding Riemann sphere under the map may be illuminating.(terminology:complex map)eg.e^z take vertical lines and horizontal lines to what?
 //consider the complex map of z^n.
+//consider integrate a polynomial along real line and other curve.cauchy theorem brilliant!
+//consider the Re part of a polynomial(or something else).how could we know it is harmonic!
 //all in all the conclusion is,complex geometry is far more complex(so abundant) than its analytic representation(series).
 //b^(rs)=(b^r)^s does not hold when b<0.
 //note that f/bf=e^(2iargf).log(||)=0.5log(||^2).
@@ -59,3 +61,6 @@ argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-
 Rouche theorem.(wind a dog around a tree hhhhhhh see wiki)
 Laurent series typically extends to a ring.
 notion of m-th pole utilizes the connection between pole and zero.
+pole,by definition,is isolated.
+meromorphic:only have pole (have no essential singularities except at the point of infinity,also no non-isolated singularities)
+ 
