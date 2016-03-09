@@ -4,7 +4,7 @@ fundamental lemma
 complex differentiable equals Cauchy-Riemann equation
 Cauchy solution to Neumann problem of C-R
 Cauchy theorem for " " holomorphic
-in a circle,holomorphic is equivalent to analytic
+in an annulus,holomorphic is equivalent to analytic(in the sense of Laurent)
 
 estimation
 Cauchy inequality
