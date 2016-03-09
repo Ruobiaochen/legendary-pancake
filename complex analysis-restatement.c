@@ -6,6 +6,10 @@ Cauchy solution to Neumann problem of C-R
 Cauchy theorem for " " holomorphic
 in an annulus,holomorphic is equivalent to analytic(in the sense of Laurent)
 
+connection of topics below
+pole is dual to zero.
+function with only one singularity on Riemann sphere is equal to entire function.(for example through Möbius transform)
+
 estimation
 Cauchy inequality
 Schwarz lemma
