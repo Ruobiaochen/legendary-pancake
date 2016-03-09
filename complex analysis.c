@@ -57,4 +57,4 @@ uniqueness.(two different holomorphic function cannot agree on a non-discrete se
 argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-of-a-holomorphic-function/51032#51032)
 //remark.this gives the concept of zero number in a contour.(defined by me)
 Rouche theorem.(wind a dog around a tree hhhhhhh see wiki)
-
+Laurent series typically extends to a ring.
