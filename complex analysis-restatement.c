@@ -23,6 +23,10 @@ Rouche theorem(symmetric version)
 local invariant of zero number
 Hurwitz theorem for function limit invariant of zero number
 
+isolated singularity
+lemma.removable singularity iff bounded
+
+
 open mapping theorem
 
 injective implies non-vanishing derivative implies biholomorphic
