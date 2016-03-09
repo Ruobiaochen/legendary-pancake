@@ -1,9 +1,8 @@
 main object:f:C->C(holomorphic,entire,meromorphic)
 
 fundamental lemma
-complex differentiable equals Cauchy-Riemann equation
-Cauchy solution to Neumann problem of C-R
-Cauchy theorem for " " holomorphic
+Cauchy theorem
+Cauchy integral formula for coefficients of Laurent series(which themselves are derivatives and integrals of the center of series)
 in an annulus,holomorphic is equivalent to analytic(in the sense of Laurent)
 
 connection of topics below
@@ -25,7 +24,7 @@ Hurwitz theorem for function limit invariant of zero number
 
 isolated singularity
 lemma.removable singularity iff bounded
-
+Picard great theorem
 
 open mapping theorem
 
