@@ -58,3 +58,4 @@ argument principle.(cf.degree,see http://mathoverflow.net/questions/51029/zeros-
 //remark.this gives the concept of zero number in a contour.(defined by me)
 Rouche theorem.(wind a dog around a tree hhhhhhh see wiki)
 Laurent series typically extends to a ring.
+notion of m-th pole utilizes the connection between pole and zero.
