@@ -66,3 +66,4 @@ meromorphic:only have pole (have no essential singularities except at the point 
 calculation of residue:consider zf(z) where f(z) is expanded at 0.consider f(1/z).
 
 //ch7.Riemann mapping
+generalization:Uniformization theorem for Riemann surface in which unit disk is of hyperbolic structure.
