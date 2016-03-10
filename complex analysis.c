@@ -63,4 +63,5 @@ Laurent series typically extends to a ring.
 notion of m-th pole utilizes the connection between pole and zero.
 pole,by definition,is isolated.
 meromorphic:only have pole (have no essential singularities except at the point of infinity,also no non-isolated singularities)
- 
+calculation of residue:consider zf(z) where f(z) is expanded at 0.consider f(1/z).
+
