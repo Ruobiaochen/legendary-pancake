@@ -17,7 +17,7 @@ fiber (ie. zero)
 lemma.relationship between factorization and derivative and series
 isolated zero theorem
 lemma.analytic(in the sense of opposite to topological) representation of winding number
-argument principle
+argument principle(count zero and pole)
 Rouche theorem(symmetric version)
 local invariant of zero number
 Hurwitz theorem for function limit invariant of zero number
@@ -25,6 +25,7 @@ Hurwitz theorem for function limit invariant of zero number
 isolated singularity
 lemma.removable singularity iff bounded
 Picard great theorem
+sum of all residue is zero.
 
 open mapping theorem
 
