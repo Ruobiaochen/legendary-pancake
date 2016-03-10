@@ -7,7 +7,7 @@
 //consider the complex map of z^n.
 //consider integrate a polynomial along real line and other curve.cauchy theorem brilliant!
 //consider the Re part of a polynomial(or something else).how could we know it is harmonic!
-//all in all the conclusion is,complex geometry is far more complex(so abundant) than its analytic representation(series).
+//all in all the conclusion is,complex geometry is far more complex(so abundant) than its analytic representation(series).(but if things may get simpler if we choose a "right" grid.cf.fubianhanshugaimao,chapter gongxingyingshe)
 //b^(rs)=(b^r)^s does not hold when b<0.
 //note that f/bf=e^(2iargf).log(||)=0.5log(||^2).
 
@@ -65,3 +65,4 @@ pole,by definition,is isolated.
 meromorphic:only have pole (have no essential singularities except at the point of infinity,also no non-isolated singularities)
 calculation of residue:consider zf(z) where f(z) is expanded at 0.consider f(1/z).
 
+//ch7.Riemann mapping
