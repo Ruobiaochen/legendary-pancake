@@ -5,6 +5,10 @@ boundary estimation
 //Cantor set C
 IntC=0,FrC=C
 
+//set-theoretic
+for any union,union commutes with function.
+generally, relative complement do not commute with function.
+
 //main source: E.M.Stein,R.Shakarchi
 //but it's not very reliable...the first (fault?) I see is the definition of limit point.
 
