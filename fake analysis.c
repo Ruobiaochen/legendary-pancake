@@ -1,3 +1,5 @@
+#notation:{f<a}={x st. f(x)<a}
+
 //Little technique
 compact
 boundary estimation
@@ -42,4 +44,14 @@ G-delta set:a set which is countable intersection of open sets
 F-sigma set:a set which is countable union of closed sets
 null set.
 //A Lebesgue-measurable set can be "squeezed" between a containing Gδ set and a contained Fσ set.
-
+finite valued:f doesn't take inf.
+measurable function:f:E->Rextended,for all a,f-1[-inf,a) is measurable.
+//equivalently,we can change open to closed, {f<=a}.or change the direction of the sign.
+//if f is finite valued,{a<f<b} is sufficient.
+//alternative definition:a function between measurable spaces is said to be measurable if the preimage of each measurable set is measurable.
+//actually it's between (R^n,L) and (Rextended,B),where B means Borel.
+//continuous is B->B measurable in this sense.
+equal almost everywhere:{x st.f(x)!=g(x)} is measure zero.
+simple function:f=a1XE1+...+atXEt,where XM is the character function of M and ak are const.
+step function:simple function in which Ek are rectangles.
+//measurable function can be approximated pointwisely by simple function or step function a.e..
