@@ -3,16 +3,20 @@
 //Little technique
 compact
 boundary estimation
+every operation can be seen as a function. eg. A+B is f:RnxRn->Rn:(a,b)->a+b,in which A+B=f(A*B).
 
 //Cantor set C
 IntC=0,FrC=C
 
 //topology of Rn
 closed is almost compact.
+compact is sequential compact is limit point compact.
+closed is equivalent to that every convergent sequence in A converges into A.
 
 //set-theoretic
 for any union,union commutes with function.
 generally, relative complement do not commute with function.
+for any union,union commutes with one Cartesian product.
 
 //Littlewood principles
 Littlewood stated the principles in his 1944 Lectures on the Theory of Functions as:
