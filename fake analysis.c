@@ -18,6 +18,7 @@ closed is equivalent to that every convergent sequence in A converges into A.
 for any union,union commutes with function.
 generally, relative complement do not commute with function.
 for any union,union commutes with one Cartesian product.
+sup(-a)=-inf(a)
 
 //Littlewood principles
 Littlewood stated the principles in his 1944 Lectures on the Theory of Functions as:
@@ -90,3 +91,5 @@ Lebesgue integral of non-negative function which is extended-valued
 //Fatou lemma:for non-negative functions,int (lim inf fn) <= lim inf (int fn)
 Lebesgue integral for general case
 //now integrable means int |f| is integrable in the above sense.
+//for all miu there exists delta st. for all E,m(E)<delta implies int (E) |f| <miu.(this is named absolute continuous)
+//Fatou-Lebesgue theorem
