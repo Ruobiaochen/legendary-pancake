@@ -1,4 +1,5 @@
 #notation:{f<a}={x st. f(x)<a}
+#in integration theory,the function under consideration are measurable.
 
 //Little technique
 compact
@@ -76,3 +77,16 @@ step function:simple function in which Ek are rectangles.
 //measurable function can be approximated pointwisely by simple function or step function a.e..
 Minkowski addition:A+B
 //Brunn-Minkowski inequality,concave of f(A)=(m(A))^(1/n)
+
+//ch2.integral theory
+canonical form of simple function:coefficients non-zero,different,sets disjoint.
+Lebesgue integral of simple function
+//notational remark.int f(x)dx=int f(x)dm(x)=int f(x)dV
+if f=g for a.e. x, inf f=int g.
+support:supp(f)={x st.f(x)!=0},then we say f is supported on supp(f).
+Lebesgue integral of bounded function supported on a set of finite measure
+Lebesgue integral of non-negative function which is extended-valued
+//now integrable means int f < +inf.
+//Fatou lemma:for non-negative functions,int (lim inf fn) <= lim inf (int fn)
+Lebesgue integral for general case
+//now integrable means int |f| is integrable in the above sense.
