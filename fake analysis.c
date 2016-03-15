@@ -11,6 +11,18 @@ IntC=0,FrC=C
 for any union,union commutes with function.
 generally, relative complement do not commute with function.
 
+//Littlewood principles
+Littlewood stated the principles in his 1944 Lectures on the Theory of Functions as:
+There are three principles, roughly expressible in the following terms: Every (measurable) set is nearly a finite sum of intervals; every function (of class Lp) is nearly continuous; every convergent sequence of functions is nearly uniformly convergent.
+//eg.f(x):[0,1]->R,0 if x is in Q,otherwise 1
+f is measurable:f-1(0) is Qintersect[0,1],which is measurable,f^(-1) also.
+Qintersect[0,1] is nearly finite union of intervals:choose a cover of it and truncate.
+approximation by simple function:fn=f=1*E(.)
+approximation by step function a.e.:gn=1
+approximation uniformly on a closed subset:[0,1]-Q has a measure 1-miu closed subset.consider a cover of Q in [0,1].then there must be some irrational number that is not covered,what's more,their set has measure 1-miu.
+continuity when restricted to a closed subset:choose the set above.
+
+
 //main source: E.M.Stein,R.Shakarchi
 //but it's not very reliable...the first (fault?) I see is the definition of limit point.
 
@@ -55,3 +67,5 @@ equal almost everywhere:{x st.f(x)!=g(x)} is measure zero.
 simple function:f=a1XE1+...+atXEt,where XM is the character function of M and ak are const.
 step function:simple function in which Ek are rectangles.
 //measurable function can be approximated pointwisely by simple function or step function a.e..
+Minkowski addition:A+B
+//Brunn-Minkowski inequality,concave of f(A)=(m(A))^(1/n)
