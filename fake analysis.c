@@ -7,6 +7,9 @@ boundary estimation
 //Cantor set C
 IntC=0,FrC=C
 
+//topology of Rn
+closed is almost compact.
+
 //set-theoretic
 for any union,union commutes with function.
 generally, relative complement do not commute with function.
