@@ -115,3 +115,9 @@ H-L maximal function(uncentered version):f*(x)=sup 1/m(B)*int (B) |f|,where sup 
 //inequality for maximal function
 locally integrable:L1-loc(Rd)
 //Lebesgue density theorem
+//identity for convolutions
+function of bounded variation:a variation of f on [a,b] here refers to sigma |df| over a finite partition of f.
+//a curve z=(x(t),y(t)) is rectifiable iff x,y are continuous and of bounded variation.
+total variation T,positive variation P,negative variation N.
+//df=P-N,T=P+N
+//rising sun lemma
