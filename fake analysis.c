@@ -1,4 +1,5 @@
 #notation:{f<a}={x st. f(x)<a}
+#notation:X is characterize function
 #in integration theory,the function under consideration are measurable.
 #Lebesgue integral is integrate by density:int f(x)=int f(-x).
 
@@ -7,6 +8,7 @@ compact
 boundary estimation
 every operation can be seen as a function. eg. A+B is f:RnxRn->Rn:(a,b)->a+b,in which A+B=f(A*B).
 characteristic function
+int X(P)=m(P)
 
 //Cantor set C
 IntC=0,FrC=C
@@ -21,6 +23,7 @@ for any union,union commutes with function.
 generally, relative complement do not commute with function.
 for any union,union commutes with one Cartesian product.
 sup(-a)=-inf(a)
+X(EintersectB)=X(E)*X(B)
 
 //Littlewood principles
 Littlewood stated the principles in his 1944 Lectures on the Theory of Functions as:
@@ -107,4 +110,8 @@ eg.simple,step,continuous with compact support
 
 //ch3.differentiation and integration
 //average problem:density differentiation
-maximal function(uncentered version):f*(x)=sup 1/m(B)*int (B) |f|,where sup is over all B,which is a ball containing x.(not necessarily center.)
+H-L maximal function(uncentered version):f*(x)=sup 1/m(B)*int (B) |f|,where sup is over all B,which is a ball containing x.(not necessarily center.)
+//Vitali lemma
+//inequality for maximal function
+locally integrable:L1-loc(Rd)
+//Lebesgue density theorem
