@@ -1,10 +1,12 @@
 #notation:{f<a}={x st. f(x)<a}
 #in integration theory,the function under consideration are measurable.
+#Lebesgue integral is integrate by density:int f(x)=int f(-x).
 
 //Little technique
 compact
 boundary estimation
 every operation can be seen as a function. eg. A+B is f:RnxRn->Rn:(a,b)->a+b,in which A+B=f(A*B).
+characteristic function
 
 //Cantor set C
 IntC=0,FrC=C
@@ -93,3 +95,12 @@ Lebesgue integral for general case
 //now integrable means int |f| is integrable in the above sense.
 //for all miu there exists delta st. for all E,m(E)<delta implies int (E) |f| <miu.(this is named absolute continuous)
 //Fatou-Lebesgue theorem
+L1 norm:||f||=int |f| (int is Lebesgue integral)
+L1 space:Lebesgue integrable function with L1 norm
+//norm induces a metric
+complete:every Cauchy sequence converges
+//L1 space is complete
+//sequence which converges in L1 has a subsequence converges pointwise a.e.
+dense in L1
+eg.simple,step,continuous with compact support
+//if f is in L1 space,then f is L1 continuous.
