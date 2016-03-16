@@ -104,3 +104,7 @@ complete:every Cauchy sequence converges
 dense in L1
 eg.simple,step,continuous with compact support
 //if f is in L1 space,then f is L1 continuous.
+
+//ch3.differentiation and integration
+//average problem:density differentiation
+maximal function(uncentered version):f*(x)=sup 1/m(B)*int (B) |f|,where sup is over all B,which is a ball containing x.(not necessarily center.)
