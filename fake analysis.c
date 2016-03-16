@@ -121,3 +121,7 @@ function of bounded variation:a variation of f on [a,b] here refers to sigma |df
 total variation T,positive variation P,negative variation N.
 //df=P-N,T=P+N
 //rising sun lemma
+absolutely continuous:for all miu there exists delta st. sigma(m(dx))<delta implies sigma(m(df))<miu,where dx are disjoint.
+//if F(x)=int a to x f(t)dt,then F is absolutely continuous.
+//T=int |f'|
+Minkowski content
