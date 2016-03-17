@@ -125,3 +125,16 @@ absolutely continuous:for all miu there exists delta st. sigma(m(dx))<delta impl
 //if F(x)=int a to x f(t)dt,then F is absolutely continuous.
 //T=int |f'|
 Minkowski content
+
+//ch6.abstract measure and integration theory
+measure space:(X,M,u),where M is a sigma-algebra of X and u:M->[0,+inf] satisfy countable additivity.
+sigma-finite:X is union of countable sets k in M which u(k) are finite.
+eg.counting measure #
+exterior measure:u*:2^X->[0,+inf],satisfy u*(empty)=0,inclusion implies no more than,countable sub additivity.
+Caratheodory measurable:E is Caratheodory measurable if for all A,u*(A)=u*(EintersectA)+((X-E)intersectA)
+//Caratheodory measurable is complete.
+//on a metric space we can define Borel sigma-algebra.
+distance between two sets:d(A,B)
+metric exterior measure:an exterior measure u* that d(A,B)>0 implies additivity(of A and B)
+//Borel sets are Caratheodory measurable with metric exterior measure.
+algebra,premeasure
