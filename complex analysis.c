@@ -64,6 +64,7 @@ notion of m-th pole utilizes the connection between pole and zero.
 pole,by definition,is isolated.
 meromorphic:only have pole (have no essential singularities except at the point of infinity,also no non-isolated singularities)
 calculation of residue:consider zf(z) where f(z) is expanded at 0.consider f(1/z).
+//we see that if f(z)=sigma ai*z^i,then int f = a(-1)*int z^(-1) =2pi*i*a(-1).
 
 //ch7.Riemann mapping
 generalization:Uniformization theorem for Riemann surface in which unit disk is of hyperbolic structure.
