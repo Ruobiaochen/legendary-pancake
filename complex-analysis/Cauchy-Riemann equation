@@ -1,9 +1,5 @@
 Step1
-f=u+iv,df=du+idv
-u=u(x,y),du=uxdx+uydy
-v..
-z=x+iy,dz=dx+idy
-barz..
+see "by definition of complex differentiable"
 
 Step2
 df/dbarz=0
