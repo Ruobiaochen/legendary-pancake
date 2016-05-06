@@ -1,0 +1,9 @@
+Step1
+We should prove,indeed,it is absolutely convergence. So we only need to consider (real) positive coefficients power series sigma anr^n.
+
+Step2
+We can infer from the limsup condition,(where it says the radius is R,) for r<R, that (an)^(1/n)/(1/r)<1-miu (or,more precisely,<(r/R)+miu) for all n sufficiently large.
+For r>R,..
+
+Step3
+Now the result follows from comparison test with geometric series.
