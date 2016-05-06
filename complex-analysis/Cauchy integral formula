@@ -1,0 +1,5 @@
+Step1
+f(w)=Taylor expansion of f around z
+
+Step2
+divide both sides by (w-z)^(n+1), then integrate around z
