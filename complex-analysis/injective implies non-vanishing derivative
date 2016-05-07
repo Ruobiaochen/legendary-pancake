@@ -1,0 +1,8 @@
+Step1
+Assume the derivative vanishes at z0,that is,f'(z0)=0. This means z0 is at least order two zero of f-f(z0).
+
+Step2
+Use "invariance of zeroes".
+
+Step3
+Observe that there must be at least two different zeroes,not one zero with order two,because of isolated zero of f'(z).
