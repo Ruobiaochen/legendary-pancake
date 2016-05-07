@@ -1,0 +1,6 @@
+Step1
+Choose an appropriate circle C around z,choose another appropriate circle B around f(z).
+
+Step2
+We know that zero inside C can be reduced to some consideration of the boundary.
+In particular,Rouche theorem,that is,an inequality on C,gives us that information.
