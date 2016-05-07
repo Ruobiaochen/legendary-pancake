@@ -1,0 +1,5 @@
+Step1
+Note that |fn-f| can be arbitrarily small by uniform convergence and |f| has a (nonzero) minimum by compactness.
+
+Step2
+The result follows from Rouche theorem.
