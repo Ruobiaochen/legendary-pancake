@@ -1,0 +1,7 @@
+wlog,assume 0 is m-th zero of f.
+
+Step1
+By Taylor expansion,f(z)=z^m*g(z) and g(0)!=0.
+
+Step2
+Integrate f'(z)/f(z) around a small enough contour around 0 where g!=0 in this circle,which is promised by continuity.
