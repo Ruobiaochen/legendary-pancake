@@ -1,7 +1,20 @@
-wlog,assume 0 is m-th zero of f.
+Statement1
+int f'(z)/f(z)=2pi*i*N,where N is the number of zeroes(count multiplicity) in the contour.
 
 Step1
-By Taylor expansion,f(z)=z^m*g(z) and g(0)!=0.
+wlog,assume 0 is m-th zero of f.
 
 Step2
+By Taylor expansion,f(z)=z^m*g(z) and g(0)!=0.
+
+Step3
 Integrate f'(z)/f(z) around a small enough contour around 0 where g!=0 in this circle,which is promised by continuity.
+
+Statement2
+int f'(z)/f(z)=change of i*arg(f) when z goes 1 circle around z0
+
+Step1
+int f'(z)/f(z)=int d(ln(f))=change of ln(f(z)) when z goes 1 circle around z0
+
+Step2
+change of ln(f(z))=change of i*arg(f)
