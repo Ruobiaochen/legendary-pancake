@@ -1,5 +1,11 @@
 ------------------------------------------------------------------------------------------------
-inequality and extremum
+boundary information
+
+
+------------------------------------------------------------------------------------------------
+inequality and extremum(cf.boundary information)
+zero inside a zone and information on the boundary(eg.argument principle,Rouche theorem)(cf.boundary information)
+
 complexification:1.real function as a complex function and 2.its holomorphiction(by harmonic conjugate pair)
 
 
