@@ -3,6 +3,7 @@ boundary information
 complexification:1.real function as a complex function and 2.its holomorphiction(by harmonic conjugate pair)(eg.cos and e,fourier transform and laplace transform)
 complex analysis and fourier analysis
 energy and integral and area/volume
+inequality and shape(monotone,convex,etc.)
 
 
 ------------------------------------------------------------------------------------------------
