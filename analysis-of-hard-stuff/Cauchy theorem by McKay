@@ -1,0 +1,4 @@
+We note it amounts to consider the order p elements since the only prime p group is cyclic, which suggests we take a look at the diagonal of the (p-dimensional) group table.
+The result follows by a simple counting argument.
+
+multi-dimensional group table:encodes much information about a non-specific group,that is,it has high degree of freedom but obeys the axioms of groups(except the association law when using (ordinary) 2-d group table)
