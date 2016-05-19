@@ -1,0 +1,6 @@
+First of all we observe that some of the good property of maximal p-group is not shared by smaller p-groups,and the fact that,a p^r group has p^m subgroup for m<r,so we'd better focus on maximal p-group.
+Write G a group,P its maximal p-group.
+Since we want to show P is big enough (wrt. p),that is,[G:P] is small enough (wrt. p),ie.,p does not divide [G:P],it is natural to consider G/P,which we hope to be a group.
+But G/P may not be a group,so we want N st. N/P is a group,so we set N to be normalizer of P.
+Now we notice the result is true if and only if p does not divide [G:N] and [N:P]. So the problem broke into two essential parts,both of which must be true if the result were to be true.
+Finally,Sylow resolves [N:P] part by the map between N and N/P and [G:N] part by counting argument of P act on coset G/N.
