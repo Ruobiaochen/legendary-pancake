@@ -6,4 +6,6 @@ fix a set and consider extreme element of it(eg.Sylow's proof of Sylow theorem,B
 
 "accessible" zooming of inequility must be the right one
 
-强行用线性性分解到基下，化为系数乘上对基的操作
+强行用线性性分解到基下，化为系数乘上对基的操作（的求和），形如sigma(aibjeiej)
+
+要证a=b，证对任意p有<a,p>=<b,p>
