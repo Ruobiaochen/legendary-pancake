@@ -5,4 +5,4 @@ relatively compact: condition in Arzela-Ascoli theorem
 
 
 regular (curve): condition so that arc parameter is well-defined
-unsigned (curvature on plane): since in the plane two vectors are enough to define an orientation, so we can define the normal vector to keep the orientation as right-handed.
+signed (curvature on plane): since in the plane two vectors are enough to define an orientation, so we can define the normal vector to keep the orientation as right-handed.
