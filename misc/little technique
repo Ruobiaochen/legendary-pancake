@@ -9,3 +9,5 @@ fix a set and consider extreme element of it(eg.Sylow's proof of Sylow theorem,B
 强行用线性性分解到基下，化为系数乘上对基的操作（的求和），形如sigma(aibjeiej)
 
 要证a=b，证对任意p有<a,p>=<b,p>
+
+自由度分析（比如解方程时，有一堆方程，挑选其中几个就能解出）
