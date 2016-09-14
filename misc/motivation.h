@@ -22,3 +22,5 @@ topology space structure (ie. specification of open subsets): to describe such c
 (AT)
 homotopy: to describe map between maps
 fundamental group: detect holes
+contractible (space): can shrink to a point
+simply connected: those with trivial fundamental group, i.e. no holes in some sense
