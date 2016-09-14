@@ -24,3 +24,6 @@ homotopy: to describe map between maps
 fundamental group: detect holes
 contractible (space): can shrink to a point
 simply connected: those with trivial fundamental group, i.e. no holes in some sense
+
+(A)
+module: vector space over a ring
