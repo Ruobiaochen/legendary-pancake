@@ -27,3 +27,4 @@ simply connected: those with trivial fundamental group, i.e. no holes in some se
 
 (A)
 module: vector space over a ring
+invariant subspace: analogy to orbit
