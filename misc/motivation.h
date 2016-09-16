@@ -25,6 +25,7 @@ fundamental group: detect holes
 contractible (space): can shrink to a point
 simply connected: those with trivial fundamental group, i.e. no holes in some sense
 cone: a construction used to represent trivial homotopy, i.e. a homotopy from a map to a constant map
+quotient topology: which preserves the continuity after gluing
 
 (A)
 module: vector space over a ring
