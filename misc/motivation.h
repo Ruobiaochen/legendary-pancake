@@ -24,6 +24,7 @@ homotopy: to describe map between maps
 fundamental group: detect holes
 contractible (space): can shrink to a point
 simply connected: those with trivial fundamental group, i.e. no holes in some sense
+cone: a construction used to represent trivial homotopy, i.e. a homotopy from a map to a constant map
 
 (A)
 module: vector space over a ring
