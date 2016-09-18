@@ -7,6 +7,8 @@ sequentially compact (space): equivalent to compact in a metric space
 relatively compact: condition in Arzela-Ascoli theorem
 epsilon net: used in the definition of totally bounded
 totally bounded: equivalent to relatively compact in a complete metric space
+uniform bounded: used in Arzela-Ascoli
+equicontinuous: used in Arzela-Ascoli
 
 
 (DG)
