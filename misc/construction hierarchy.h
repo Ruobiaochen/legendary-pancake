@@ -4,8 +4,10 @@
 1.1 (in topological space) f: compact M->R can attain its minimum (0.2)
 
 1i.1 smoothly zero function: R->R, 0 when x<0, else e^(-1/x).
+1i.2 contraction mapping (Banach fixed point)
 
 2i.1 smooth transition function: R->R, \cite(1i.1) as h, h(x)/(h(x)+h(1-x)).
+2i.2 inverse function theorem (1i.2)
 
 3i.1 bump function: Rn->R, \cite(2i.1) as g, g(2-|x|).
 
