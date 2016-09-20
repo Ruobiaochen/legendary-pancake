@@ -14,14 +14,19 @@ equicontinuous: used in Arzela-Ascoli
 
 
 (DG)
+isometric isomorphism (wrt. intrinsic distance function): to describe intrinsic properties
+/*
 regular (curve): condition so that arc parameter is well-defined
 signed (curvature on plane): since in the plane two vectors are enough to define an orientation, so we can define the normal vector to keep the orientation as right-handed.
+*/
 
 
 (DM)
 topology space structure (ie. specification of open subsets): to describe such concepts as continuity, connectedness.
 (topological) manifold: to describe locally n-dimensional objects, in the sense of Euclidean topology
+/*
 smooth (manifold): a condition such that smooth maps can be well-defined.
+*/
 
 
 (AT)
