@@ -1,6 +1,7 @@
 
 (FA)
 metric space: there is a need to describe different mode of convergence, and metric space with different metric function can induce different topology, which does the work.
+/*
 complete: this is a condition in (Banach fixed point theorem) and (equivalence of totally bounded and relatively compact)
 compact (space): used in definition of relatively compact
 sequentially compact (space): equivalent to compact in a metric space
@@ -9,6 +10,7 @@ epsilon net: used in the definition of totally bounded
 totally bounded: equivalent to relatively compact in a complete metric space
 uniform bounded: used in Arzela-Ascoli
 equicontinuous: used in Arzela-Ascoli
+*/
 
 
 (DG)
