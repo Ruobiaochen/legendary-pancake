@@ -12,3 +12,7 @@
 3i.1 bump function: Rn->R, \cite(2i.1) as g, g(2-|x|).
 
 4i.1 bump function: manifold M->R, \cite(3i.1) as p, \cite(2i.1) as q, q(sigma(p_i(phi_i)))
+
+5i.1 partition of unity subordinate to open cover U_a: \cite(4i.1) as phi_j, rou_a=sigma(phi_j/sigma(phi_j))
+
+6i.1 bump function for closed set A: use partition of unity for {M/A,U} (5i.1)
