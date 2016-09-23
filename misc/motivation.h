@@ -25,7 +25,7 @@ signed (curvature on plane): since in the plane two vectors are enough to define
 topology space structure (ie. specification of open subsets): to describe such concepts as continuity, connectedness.
 (topological) manifold: to describe locally n-dimensional objects, in the sense of Euclidean topology
 /*
-smooth (manifold): a condition such that smooth maps can be well-defined.
+smooth structure (of manifold): a condition such that smooth maps:M->N and smooth functions:M->Rn can be well-defined, thus the smoothness of the chart function.
 */
 
 
