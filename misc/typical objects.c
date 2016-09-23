@@ -1,5 +1,5 @@
-//group
-1.cyclic
-2.abelian
-3.dihedral
-4.symmetry
+finitely generated abelian groups
+dihedral group
+symmetry group
+
+2-d compact manifolds
