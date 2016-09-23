@@ -1,0 +1,12 @@
+Fundamental group
+pi(X,x_0) is L/~, where L is all loops at x_0 and ~ is homotopy
+f_* is Hom((X,x_0)->(Y,y_0))->Hom(pi(...)->pi(...))
+
+Smooth manifolds
+n-dimensional smooth manifold is (M,S) where M is a n-dimensional topological manifold, S is a smooth structure
+smooth structure is an equivalent class of atlas
+atlas is a collection of charts (which cover M and the transition maps are smooth)
+chart is (phi,U,V)
+smooth function is f: M->R
+smooth map is f: M->N
+smooth map f is a diffeomorphism: f is smooth, bijective, f^(-1) is smooth
