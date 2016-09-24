@@ -11,3 +11,5 @@ fix a set and consider extreme element of it(eg.Sylow's proof of Sylow theorem,B
 要证a=b，证对任意p有<a,p>=<b,p>
 
 自由度分析（比如解方程时，有一堆方程，挑选其中几个就能解出）
+
+若有f:M->A和g:M->B，要构造A->B，可以强行fm->gm，再证与m的选取无关
