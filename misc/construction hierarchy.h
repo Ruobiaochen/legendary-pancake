@@ -6,10 +6,10 @@
 1i.1 smoothly zero function: R->R, 0 when x<0, else e^(-1/x).
 1i.2 contraction mapping (Banach fixed point)
 1i.3 a topological existence lemma for partition of unity
-1i.4 (contrapositive of) module monomorphism induces injective, module epimorphism induces surjective
+1i.4 module monomorphism induces injective, module epimorphism induces surjective (can be restated as part of the left/right exactness of hom functor)
 
 2i.1 smooth transition function: R->R, \cite(1i.1) as h, h(x)/(h(x)+h(1-x)).
-2i.2 inverse function taheorem (1i.2)
+2i.2 inverse function theorem (1i.2)
 
 3i.1 bump function: Rn->R, \cite(2i.1) as g, g(2-|x|).
 
