@@ -10,3 +10,7 @@ chart is (phi,U,V)
 smooth function is f: M->R
 smooth map is f: M->N
 smooth map f is a diffeomorphism: f is smooth, bijective, f^(-1) is smooth
+C^inf(M): (M*) all smooth functions on M
+tangent vector is X_p: C^inf(M)->R satisfying Leibnitz rule
+tangent space TpM (M**) is the set of all tangent vectors at p
+differential of a smooth map f is (M->N lifts to M**->N**) dfp: TpM->T(fp)N
