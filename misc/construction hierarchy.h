@@ -3,6 +3,10 @@
 
 1.1 (in topological space) f: compact M->R can attain its minimum (0.2)
 
+2.1 Lebesgue's number lemma (1.1)
+
+3.1 path lifting lemma or homotopy lifting lemma (2.1,0.1)
+
 1i.1 smoothly zero function: R->R, 0 when x<0, else e^(-1/x).
 1i.2 contraction mapping (Banach fixed point)
 1i.3 a topological existence lemma for partition of unity
