@@ -6,3 +6,5 @@ symmetry group
 eight shape
 
 quadratic surfaces
+
+C[0,1]
