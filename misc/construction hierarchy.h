@@ -10,7 +10,6 @@
 1i.1 smoothly zero function: R->R, 0 when x<0, else e^(-1/x).
 1i.2 contraction mapping (Banach fixed point)
 1i.3 a topological existence lemma for partition of unity
-1i.4 left/right exactness of hom functor
 
 2i.1 smooth transition function: R->R, \cite(1i.1) as h, h(x)/(h(x)+h(1-x)).
 2i.2 inverse function theorem (1i.2)
