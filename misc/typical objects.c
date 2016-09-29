@@ -6,6 +6,8 @@ symmetry group
 eight shape
 
 quadratic surfaces
+surface of revolution
+cylindrical surface
 
 C[0,1]
 l^2
