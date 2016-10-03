@@ -19,3 +19,5 @@ fix a set and consider extreme element of it(eg.Sylow's proof of Sylow theorem,B
 一个东西如果不收敛，但要利用它，那么可以强行找它的收敛子列。
 
 证单调双射连续要用连续的原始定义才行。。怪不得要那样定义
+
+If f1=0 on A, f2=0 on B, let f=f1/(f1+f2), then f=0 on A, =1 on B.
