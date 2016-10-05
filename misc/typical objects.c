@@ -13,3 +13,6 @@ C[0,1]
 l^2
 
 monotone function
+
+abelian group (as Z-module)
+V^T (as k[x]-module)
