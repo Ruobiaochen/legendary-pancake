@@ -1,0 +1,3 @@
+Since this theorem can contain inverse and implicit function theorem as its corollary, 为想出此定理的证明，或许先弄清implicit和inverse是怎么互推的会很有帮助。（还有它怎么推出这两者）
+
+基本上就是先构造一个映射phi，用反函数定理把它变成同坯，再考虑f.phi-1的矩阵，由于rank恒为r，推出右下角全为0，由此得一个函数无关性，由此可以明确地写出psi和它的逆，使得psi.f.phi-1=i.p。（i.p是指先投射到R^r再入射到R^n）
