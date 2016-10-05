@@ -15,6 +15,7 @@
 2i.2 inverse function theorem (1i.2)
 
 3i.1 bump function: Rn->R, \cite(2i.1) as g, g(2-|x|).
+3i.2 constant rank theorem (2i.2)
 
 4i.1 bump function: manifold M->R, \cite(3i.1) as p, \cite(2i.1) as q, q(sigma(p_i(phi_i)))
 
