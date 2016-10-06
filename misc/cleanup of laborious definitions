@@ -15,3 +15,7 @@ tangent vector is X_p: C^inf(M)->R satisfying Leibnitz rule
 tangent space TpM (M**) is the set of all tangent vectors at p
 differential of a smooth map f is (M->N lifts to M**->N**) dfp: TpM->T(fp)N
 （注意到M具有向量空间的结构时，由M到M**的自然嵌入，tangent vector就真的是一个（M中的）vector）
+
+严格凸空间是指单位球是严格凸集
+
+期望就是以概率为测度的对随机变量在全空间上的积分
