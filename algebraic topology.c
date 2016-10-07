@@ -1,3 +1,5 @@
+(Greenberg and Harper)(yujianqing)
+
 同伦论：
 同伦是指一种映射与映射之间的连续变换。同伦可用时间参数定义，也可通过赋予Hom(Y->X)拓扑来定义。
 由于同伦是映射之间的连续变换，所以它自然地诱导了空间之间的等价关系，称为homotopy equivalence。
