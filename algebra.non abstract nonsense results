@@ -5,3 +5,5 @@
 1.2 R is PID, M is divisible R-mod, then M is injective.
 
 2.Chinese Remainder Theorem
+
+3.M is free R-mod, then M/IM is free R/I-mod.
