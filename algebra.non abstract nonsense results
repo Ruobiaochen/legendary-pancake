@@ -3,3 +3,5 @@
 1.Baer's criterion for injective modules
 1.1 R is integral domain, K=frac R, then K is injective R-module.
 1.2 R is PID, M is divisible R-mod, then M is injective.
+
+2.Chinese Remainder Theorem
