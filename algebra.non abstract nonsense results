@@ -5,9 +5,3 @@
 1.2 R is PID, M is divisible R-mod, then M is injective.
 
 2.Chinese Remainder Theorem
-2.1 key lemma(partition of 1)
-/*
-Inspired by proof of property of comaximal ideal on planetmath
-use this lemma the remainder theorem can be proved easily. 比如说有m=a mod AM, m=b mod BM, m=c mod CM, 则qrm=qra mod(ABC)M,这样的三个式子加起来，m的系数可以强行(by key lemma)通过适当的选取p属于A1,...,变为1。即得满射。
-Key lemma证明：a1+a2=1,b1b2+b3=1(这一步的证明其他证明中也写了，这里就不写了），则b1b2+b3*1=1，b1b2+b3(a1+a2)=1，展开即可。高维的以此类推。
-*/
