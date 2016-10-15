@@ -16,6 +16,8 @@ tangent space TpM (M**) is the set of all tangent vectors at p
 differential of a smooth map f is (M->N lifts to M**->N**) dfp: TpM->T(fp)N
 （注意到M具有向量空间的结构时，由M到M**的自然嵌入，tangent vector就真的是一个（M中的）vector）
 regular value: q is regular value if for all p in f-1(q), f is submersion at p.
+critical point: f is not submersion at p.
+Crit(f): set of critical points
 
 严格凸空间是指单位球是严格凸集
 
