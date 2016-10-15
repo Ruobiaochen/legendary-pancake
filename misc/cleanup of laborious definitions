@@ -18,6 +18,8 @@ differential of a smooth map f is (M->N lifts to M**->N**) dfp: TpM->T(fp)N
 regular value: q is regular value if for all p in f-1(q), f is submersion at p.
 critical point: f is not submersion at p.
 Crit(f): set of critical points
+non-degenerate: a critical point is ... if its Hessian is non singular.
+Morse function: all critical points are non degenerate.
 
 严格凸空间是指单位球是严格凸集
 
