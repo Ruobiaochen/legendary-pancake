@@ -1,9 +1,14 @@
 区分标准：能不能用箭头说话
 
 1.Baer's criterion for injective modules
-1.1 R is integral domain, K=frac R, then K is injective R-module.
-1.2 R is PID, M is divisible R-mod, then M is injective.
+R is integral domain, K=frac R, then K is injective R-module.
+R is PID, M is divisible R-mod, then M is injective.
 
 2.Chinese Remainder Theorem
 
 3.M is free R-mod, then M/IM is free R/I-mod.
+
+4.structure theorems for f.g. PID-mod
+proj=free PID-mod
+flat=torsion free PID-mod
+sub mod of f.g. free PID-mod is free
