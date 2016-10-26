@@ -12,3 +12,5 @@ R is PID, M is divisible R-mod, then M is injective.
 proj=free PID-mod
 flat=torsion free PID-mod
 sub mod of f.g. free PID-mod is free
+
+5.Hilbert basis theorem
