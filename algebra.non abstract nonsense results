@@ -14,3 +14,5 @@ flat=torsion free PID-mod
 sub mod of f.g. free PID-mod is free
 
 5.Hilbert basis theorem
+
+6.R is Artin ring, then the set of maximal ideals of R is finite
