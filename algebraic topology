@@ -7,3 +7,24 @@
 映射会诱导基本群的同态。
 X的覆盖空间可以看作是X的多个copy自洽地拼接而成的一个空间。覆盖空间与原空间之间有密切的关系。比如说，fiber自然地对应于基本群的元素，进一步地，保持fiber不变的自同构组成的群（甲板变换群）自然地对应于基本群。而覆盖空间的高阶基本群与原空间的高阶基本群同构。
 Y->X的映射往往可以被lift到Y->E的映射，其中E是X的覆盖空间。由于E的结构往往比X简单，这样就能使问题简化。
+
+
+
+
+
+Glossory of AT by Greenberg&Harper as a TOOL in studying topological properties.
+(any defs/results that is too specific or can be (obviously) obtained by abstract nonsense considerations will be omitted)
+basic homotopy theory:
+fundamental group functor
+formula for pi_1 of product space
+Van-Kampen's theorem
+covering space theory:
+lifting theorems(including lifting criterion)
+covering transformation group-fundamental group correspondence
+existence of universal covering space
+singular homology theory:
+singular chain complex functor and  homology functor
+(relative) homology is invariant under (relative) homotopy
+long exact sequence of relative homology
+excision theorem
+Mayer-Vietoris sequence
